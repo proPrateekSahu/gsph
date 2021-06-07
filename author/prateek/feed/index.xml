@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>prateek &#8211; GSproductionhouse</title>
+	<atom:link href="http://localhost/gsph/author/prateek/feed/" rel="self" type="application/rss+xml" />
+	<link>https://proprateeksahu.github.io/gsph</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 07 Jun 2021 13:45:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Its Engineering Bro!</title>
+		<link>https://proprateeksahu.github.io/gsph/2021/06/07/hello-world/</link>
+					<comments>https://proprateeksahu.github.io/gsph/2021/06/07/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[prateek]]></dc:creator>
+		<pubDate>Mon, 07 Jun 2021 13:16:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://proprateeksahu.github.io/gsph/?p=1</guid>
+
+					<description><![CDATA[Express your joy and overcome your burden with your fellow mates!]]></description>
+										<content:encoded><![CDATA[
+<p>Express your joy and overcome your burden with your fellow mates!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://proprateeksahu.github.io/gsph/2021/06/07/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
